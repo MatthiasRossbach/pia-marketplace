@@ -1,0 +1,14 @@
+{
+  "name": "pia",
+  "owner": {
+    "name": "Matthias Rossbach"
+  },
+  "plugins": [
+    {
+      "name": "scaffold-project",
+      "source": "./plugins/scaffold-project",
+      "description": "Scaffolds new TypeScript + pnpm projects with opinionated defaults",
+      "version": "1.0.0"
+    }
+  ]
+}
